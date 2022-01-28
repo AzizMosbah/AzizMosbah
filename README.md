@@ -1,8 +1,10 @@
 👋 Hi, I’m @AzizMosbah
 
-👀 I’m interested in everything data
+👨‍💻 I specialise in data science & mainly write code in Python & JavaScript 
 
-🌱 I’m currently learning Solidity, Vyper and the basics of blockchain development
+👀 Interested in taking my skils to Web3
+
+🌱 Currently learning Solidity, Vyper and the basics of blockchain development
 
 <!---
 AzizMosbah/AzizMosbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

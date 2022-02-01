@@ -1,6 +1,8 @@
 👋 Hi, I’m @AzizMosbah
 
-👨‍💻 I specialise in data science & mainly write code in Python & JavaScript 
+👨‍💻 I specialise in data science & mainly write code in Python & JavaScript. 
+
+📈 Most projects you will see on this page are studies conducted on real - albeit anonymised - data, either as part of work or hackathons
 
 👀 Interested in taking my skils to Web3
 

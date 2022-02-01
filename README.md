@@ -6,7 +6,7 @@
 
 👀 Interested in taking my skils to Web3
 
-🌱 Currently learning JavaScript, Solidity, Vyper, and the basics of blockchain development
+🌱 Currently learning Solidity, Vyper, and the basics of blockchain development
 
 <!---
 AzizMosbah/AzizMosbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

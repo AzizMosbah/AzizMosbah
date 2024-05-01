@@ -1,4 +1,4 @@
-👋 Hi, I’m @AzizMosbah
+👋 Hi, I’m Aziz Benmosbah
 
 👨‍💻 I specialise in data science & mainly write code in Python & JavaScript. 
 
